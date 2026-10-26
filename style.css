@@ -1,0 +1,12 @@
+body{font-family:system-ui,"Malgun Gothic",sans-serif;margin:auto;padding:1rem;max-width:880px;line-height:1.6}
+header{position:sticky;top:0;background:#fff;padding:1rem 0;border-bottom:1px solid #ddd}
+h1{font-size:1.3rem;margin:0 0 .75rem}
+.bar{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap}
+input{padding:.5rem;font-size:1rem;flex:1;min-width:200px}
+#count{font-weight:600;color:#06f}
+.card{border:1px solid #eee;padding:1rem;margin:.5rem 0;border-radius:8px}
+.label{color:#06f;font-weight:600}
+.title{font-weight:600;margin:.25rem 0}
+.body{white-space:pre-wrap;color:#444;font-size:.9rem}
+mark{background:#ffe58a;padding:0 2px}
+.empty{color:#888;text-align:center;padding:2rem}
